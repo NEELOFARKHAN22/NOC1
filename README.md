@@ -24,7 +24,7 @@ Restart the Apache server now successfully able to connect with the react web ap
 To provide SSL to my website, I used the Certbot website which provides commands for the Apache server to install the certificate: I followed the document and run commands to install the SSL certificate & after that, SSL lay on my react server.
 These are all configurations I have done for my POC1.
 **
-Learning:
+# Learning:
 **
 1. I have learned about react libraries and dependencies.
 2. I did some troubleshooting while building the React app after I resolved those errors. This helped me to learn some new concepts about react application.
