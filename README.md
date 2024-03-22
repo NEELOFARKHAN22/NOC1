@@ -38,9 +38,9 @@ To provide SSL to my website, I used the Certbot website which provides commands
 
 # Learning:
 ```sh
-1. I have learned about react libraries and dependencies.
-2. I did some troubleshooting while building the React app after I resolved those errors. This helped me to learn some new concepts about react application.
-3. I learn some new things about Apache server. I got differences between all the Apache configuration files. 
-4. I got an idea about DNS & I configured a domain name for my server.
-5. I learned new things that as SSL security and what is need of it.
+1. I have learned about react `libraries` and `dependencies`.
+2. I did some troubleshooting while building the React app after I resolved those errors. This helped me to learn some new concepts about `react application`.
+3. I learn some new things about the `Apache server`. I got differences between all the `Apache configuration files`. 
+4. I got an idea about `DNS` & I configured a domain name for my server.
+5. I learned new things that as `SSL security` and what is need of it.
 ```
