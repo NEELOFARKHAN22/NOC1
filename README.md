@@ -8,7 +8,7 @@
 - Attach Https SSL to the website
 
 # Solutions:
-
+```sh
 Install the npm command using- _sudo apt install npm_
 Install a react app - _sudo npm install -g create-react-app_
 Create a react app - _sudo create-react-app test1_
@@ -23,6 +23,7 @@ Change domain name: first I used to login in third-party website for domain regi
 Restart the Apache server now successfully able to connect with the react web app via domain name.
 To provide SSL to my website, I used the Certbot website which provides commands for the Apache server to install the certificate: I followed the document and run commands to install the SSL certificate & after that, SSL lay on my react server.
 These are all configurations I have done for my POC1.
+```
 **
 # Learning:
 **
