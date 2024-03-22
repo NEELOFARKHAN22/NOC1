@@ -9,7 +9,7 @@
 
 # Solutions:
 ```sh
-- Install the npm command using- `_sudo apt install npm_`
+-- Install the npm command using- `_sudo apt install npm_`
 - Install a react app - `sudo npm install -g create-react-app`
 - Create a react app - `sudo create-react-app test1`
 - Navigate the test1 app via the `cd` command.
