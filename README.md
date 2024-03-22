@@ -1,12 +1,12 @@
 
 # POC1:-
-
+```sh
 - Deploy an Ubuntu server.
 - Create a React app 
 - Deploy react app on Apache Server
 - Attach a domain -freely
 - Attach Https SSL to the website
-
+```
 # Solutions:
 ```sh
 Install the npm command using- `_sudo apt install npm_`
