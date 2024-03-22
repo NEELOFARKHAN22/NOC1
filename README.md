@@ -36,7 +36,7 @@ To provide SSL to my website, I used the Certbot website which provides commands
 #These are all configurations I have done for my POC1.
 ```
 
-# Learning:
+# My Learning:
 ```sh
 1. I have learned about react `libraries` and `dependencies`.
 2. I did some troubleshooting while building the React app after I resolved those errors. This helped me to learn some new concepts about `react application`.
